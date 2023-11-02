@@ -72,8 +72,9 @@ input[type="password"]:focus ,input[type="submit"]:focus{
 
 
 
-button[type="submit"]:hover {
-    background-color: #0df443;
+input[type="submit"]:hover {
+    background-color: #ff7700;
+    color: white;
 }
 input[type="radio"]{ color: rgb(186, 19, 19);}
 
