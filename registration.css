@@ -77,6 +77,10 @@ input[type="submit"]:hover {
     color: white;
 }
 input[type="radio"]{ color: rgb(186, 19, 19);}
+@media only screen and (max-width: 600px)
 
+{
+    #regisbox{ height: max-content;}
+}
 
     
