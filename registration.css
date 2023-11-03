@@ -80,7 +80,14 @@ input[type="radio"]{ color: rgb(186, 19, 19);}
 @media only screen and (max-width: 600px)
 
 {
-    #regisbox{ height: max-content;}
+    #regisbox,{ height: 56px;
+    }
+    p{
+        
+        width: 34px;
+        font-size: medium;
+        text-align: center;
+    }
 }
 
     
